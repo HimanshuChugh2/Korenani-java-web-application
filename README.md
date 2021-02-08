@@ -1,5 +1,9 @@
 # Korenani-java-web-application
 
+The app is currently hosted on Heroku. Please feel free to take a look -> https://korenani.herokuapp.com;
+
+*Please note that the app is still in development*
+
 Name of the web app: Korenani
 Purpose: To providing free resources/ study material of learning to everyone who is learning foreign language.
 
